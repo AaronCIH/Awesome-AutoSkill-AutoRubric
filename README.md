@@ -30,6 +30,7 @@ Research on enabling LLM-based agents to autonomously create, evolve, and reuse 
 
 | Name | Date | Paper | Repo | TL;DR |
 |------|------|-------|------|-------|
+| **OpenSkill** | Jun 2026 | [arXiv:2606.06741](https://arxiv.org/abs/2606.06741) | - | Open-world self-evolution framework that acquires knowledge and verification anchors from public resources, synthesizes transferable skills, and refines them without target-task supervision. |
 | **Skill-Pro** | Feb 2026 | [arXiv:2602.01869](https://arxiv.org/abs/2602.01869) | - | Agents autonomously learn reusable procedural skills from interaction via Non-Parametric PPO — formalizes a Skill-MDP with activation/execution/termination conditions and a PPO Gate for robust skill verification. **ICML 2026 Spotlight.** |
 | **SkillFlow (Flow-Driven)** | May 2026 | [arXiv:2605.14089](https://arxiv.org/abs/2605.14089) | [Code](https://anonymous.4open.science/r/SkillFlow-E850) | Flow-based framework using Tempered Trajectory Balance for agentic orchestration — enables recursive skill evolution with transparent per-step credit assignment, outperforming baselines on 14 datasets. |
 | **Harnessing Agentic Evolution (AEvo)** | May 2026 | [arXiv:2605.13821](https://arxiv.org/abs/2605.13821) | - | Meta-editing framework where a meta-agent observes accumulated evolution context and edits the procedure/agent context that controls future evolution — 26% relative improvement over strongest baseline. |
